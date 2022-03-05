@@ -1,0 +1,35 @@
+commit 53af9dc2fd42b45ae6d294ca1c7426dd6deba884
+Author: rgo5887 <rgo5887@g.rit.edu>
+Date:   Sun Sep 26 16:59:04 2021 -0400
+
+    Added Rachel to the list of member names
+
+commit 7fe7fe9482afd7e916a9d446b8fcda8df0140921
+Author: Julia Han <jjh6283@rit.edu>
+Date:   Sun Sep 26 16:27:33 2021 -0400
+
+    Added Julia Han to list of member names
+
+commit b26861260e530bab20b6ff31d9b050cc5bfaf1ba
+Author: Rampage52 M <CoopMist42@gmail.com>
+Date:   Sat Sep 25 23:07:29 2021 -0400
+
+    Added Cooper in Names
+
+commit c4927851dab30b194d3ee36419cf5276119ec485
+Author: tcber <tcb2196@g.rit.edu>
+Date:   Fri Sep 24 14:57:00 2021 -0400
+
+    Thomas Bertola Added
+
+commit 1a1eccfe0a53147aa078e2882a4226c9d3b519d4
+Author: QuangTran <qt1284@rit.edu>
+Date:   Thu Sep 23 23:12:02 2021 -0400
+
+    Updating name in README
+
+commit 10c352cb81ac68a0a9e7813d67852c8d4d3af763
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Fri Sep 24 01:12:46 2021 +0000
+
+    Initial commit

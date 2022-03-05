@@ -1,0 +1,4 @@
+Use this command to compile : mvn compile exec:java
+This is the link to get to the game once it has been started : localhost:4567
+To select the opponent type their name in the box
+
